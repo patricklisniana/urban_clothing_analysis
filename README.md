@@ -23,6 +23,8 @@ StyleHub’s net profit margin is 12%, with profitability impacted by high disco
 
 **Attributes:** Order details, product/category, region, sales channel, pricing, discounts, costs, marketing spend, profit, and gross margin
 
+![Sales Dashboard](Raw_Data.jpg)
+
 ## ⚙️Tools and Methodology
 ###
 **Microsoft Excel** – Data cleaning, data standardization, and exploratory data analysis (EDA)
@@ -46,3 +48,17 @@ Gross margins remain consistently strong (~45–50%), indicating effective prici
 Promotional activities, particularly discounts and marketing spend, are not translating proportionally into profit growth. Instead, they are compressing margins and reducing overall profitability, indicating inefficiencies in targeting, execution, or ROI measurement.
 
 ![Sales Dashboard](Promotional_Effectiveness.jpg)
+
+## 📌Strategic Recommendations
+###
+1️⃣ **Demand Stabilization Through Best-Seller Replication**
+Standardize high-performing product, pricing, and channel combinations during peak months and replicate these strategies in low-performing periods to reduce revenue volatility and improve baseline performance.
+
+2️⃣ **Seasonal Revenue Maximization Strategy**
+Capitalize on peak demand cycles by aligning inventory, pricing, and marketing campaigns ahead of high-performing months to maximize sales uplift and margin capture during periods of strong consumer demand.
+
+3️⃣ **Promotion Optimization & Discount Rationalization**
+Shift away from broad discounting strategies toward targeted, data-driven promotions. Replace blanket discounts with personalized offers, bundles, or value-based incentives to protect margins while sustaining conversion rates.
+
+4️⃣ **Marketing ROI Optimization Framework**
+Implement performance tracking across marketing channels to identify high-ROI campaigns and reallocate budget toward top-performing segments, improving overall efficiency and profitability.
