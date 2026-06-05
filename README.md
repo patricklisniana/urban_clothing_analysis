@@ -39,7 +39,9 @@ Sales and profit follow clear seasonal demand patterns, driving periodic peaks a
 
 Gross margins remain consistently strong (~45–50%), indicating effective pricing strategy and cost control. This suggests that core product profitability is not a concern, and the business maintains solid value capture from its offerings.
 
-![Sales Dashboard](Product Sales Performance Dashboard.jpg)
+![Sales Dashboard](urban_clothing_analysis
+/Product Sales Performance Dashboard.jpg
+)
 
 3️⃣ **Promotion Inefficiency & Profit Erosion**
 
