@@ -39,6 +39,8 @@ Sales and profit follow clear seasonal demand patterns, driving periodic peaks a
 
 Gross margins remain consistently strong (~45–50%), indicating effective pricing strategy and cost control. This suggests that core product profitability is not a concern, and the business maintains solid value capture from its offerings.
 
+![Sales Dashboard](images/your-image.png)
+
 3️⃣ **Promotion Inefficiency & Profit Erosion**
 
 Promotional activities, particularly discounts and marketing spend, are not translating proportionally into profit growth. Instead, they are compressing margins and reducing overall profitability, indicating inefficiencies in targeting, execution, or ROI measurement.
