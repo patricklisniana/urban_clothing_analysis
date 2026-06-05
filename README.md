@@ -1,4 +1,4 @@
-# 👕StyleHub: Analysis to be at the Top
+# 👕StyleHub: Unlocking Profit Growth Opportunities
 ## 📄Project Overview
 ###
 This project analyzes the performance of StyleHub, a retail apparel company, focusing on key drivers of profitability. The dashboard evaluates product performance and promotional effectiveness impact using metrics such as sales, cost, discounts, marketing spend, and profit.
