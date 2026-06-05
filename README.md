@@ -44,3 +44,5 @@ Gross margins remain consistently strong (~45–50%), indicating effective prici
 3️⃣ **Promotion Inefficiency & Profit Erosion**
 
 Promotional activities, particularly discounts and marketing spend, are not translating proportionally into profit growth. Instead, they are compressing margins and reducing overall profitability, indicating inefficiencies in targeting, execution, or ROI measurement.
+
+![Sales Dashboard](Promotional_Effectiveness.jpg)
