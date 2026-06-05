@@ -16,15 +16,11 @@ StyleHub’s net profit margin is 12%, with profitability impacted by high disco
 ## 📊Data Summary
 ###
 **Period:** Jan 2023 – Dec 2024 (Jan 2025 excluded due to low volume)
-
 **Scope:** Retail apparel transactions across regions and sales channels
-
 **Volume:** Multi-month sales and profit records
-
 **Attributes:** Order details, product/category, region, sales channel, pricing, discounts, costs, marketing spend, profit, and gross margin
 
 ## ⚙️Tools and Methodology
 ###
 **Microsoft Excel** – Data cleaning, data standardization, and exploratory data analysis (EDA)
-
 **Power BI** – Dashboard development, data modeling, and DAX-based measures for interactive reporting
