@@ -33,6 +33,7 @@ StyleHub’s net profit margin is 12%, with profitability impacted by high disco
 
 ## 💡Insights
 ###
+![Sales Dashboard](Product_Sales_Performance_Dashboard.jpg)
 1️⃣ **Seasonal Demand & Revenue Volatility**
 
 Sales and profit follow clear seasonal demand patterns, driving periodic peaks and dips in performance. This indicates strong reliance on cyclical buying behavior, highlighting opportunities for demand smoothing and strategic campaign timing during low-performing periods.
@@ -41,13 +42,10 @@ Sales and profit follow clear seasonal demand patterns, driving periodic peaks a
 
 Gross margins remain consistently strong (~45–50%), indicating effective pricing strategy and cost control. This suggests that core product profitability is not a concern, and the business maintains solid value capture from its offerings.
 
-![Sales Dashboard](Product_Sales_Performance_Dashboard.jpg)
-
+![Sales Dashboard](Promotional_Effectiveness.jpg)
 3️⃣ **Promotion Inefficiency & Profit Erosion**
 
 Promotional activities, particularly discounts and marketing spend, are not translating proportionally into profit growth. Instead, they are compressing margins and reducing overall profitability, indicating inefficiencies in targeting, execution, or ROI measurement.
-
-![Sales Dashboard](Promotional_Effectiveness.jpg)
 
 ## 📌Strategic Recommendations
 ###
